@@ -54,6 +54,7 @@ The heart1.csv dataset contains 13 columns that represent various attributes rel
 
 **Installation**
 To run the project in your Jupyter Notebook or Google Colab, follow these steps:
+
 1. **Clone the repository**:
    - If using Jupyter Notebook:
      ```bash
@@ -79,11 +80,16 @@ Run the following code cell in the notebook to install the required libraries:
 The insurance.csv dataset is already included in the repository.
 
 **4.Tools used:**
-**Numpy:** Used for numerical computations and array manipulation.
-**Pandas:** Used for data manipulation, analysis, and cleaning.
-**Seaborn:** Used for data visualization and statistical plotting.
+
+**Numpy**: Used for numerical computations and array manipulation.
+
+**Pandas** :Used for data manipulation, analysis, and cleaning.
+
+**Seaborn** : Used for data visualization and statistical plotting.
+
 **Scikit-learn:** Used for building and evaluating the linear regression model. -Descriptive Statistics: Used to summarize and analyze the dataset, including measures such as mean, median, standard deviation, and correlation coefficients.
-**Matplotlib:** Used for data visualization.
+
+**Matplotlib** : Used for data visualization.
 
 **Results and Performance:**
 This project aimed to develop a logistic regression model to predict heart disease presence based on medical and demographic features. With an accuracy of 84% on the training data and 83.6% on testing, the model effectively distinguishes between individuals with and without heart disease. Its interpretability makes it suitable for clinical settings, offering valuable insights for early detection and intervention in heart disease cases.
