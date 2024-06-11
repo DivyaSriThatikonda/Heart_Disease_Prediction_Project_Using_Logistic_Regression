@@ -58,13 +58,14 @@ To run the project in your Jupyter Notebook or Google Colab, follow these steps:
 **1.Clone the repository:**
 If using Jupyter Notebook:
 !git clone https://github.com/DivyaSriThatikonda/Heart_Disease_Prediction_Project_Using_Logistic_Regression
+
 If using Google Colab:
-Open a new Colab notebook.
-Execute the following code cell:
+Open a new Colab notebook andExecute the following code cell:
 !git clone https://github.com/DivyaSriThatikonda/Heart_Disease_Prediction_Project_Using_Logistic_Regression
 
 **2.Install dependencies:**
 Run the following code cell in the notebook to install the required libraries:
+
 !pip install numpy pandas matplotlib seaborn scikit-learn
 
 **3.Access the dataset:**
